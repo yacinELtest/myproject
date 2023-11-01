@@ -1,1 +1,1 @@
-document.getElementById('clickh1').style.backgroundColor='blue'
+document.getElementById('clickh1').style.backgroundColor='yellow'
